@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">CalculatorOfTime</string>
-    <string name="titleTV">Калькулято времени</string>
+    <string name="titleTV">Калькулятор времени</string>
     <string name="signPlus">+</string>
     <string name="signMinus">-</string>
     <string name="resultText">0h0m0s</string>
+    <string name="resetMenu">Очистить</string>
+    <string name="exitMenu">Выход</string>
 </resources>
